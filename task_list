@@ -1,0 +1,8 @@
+- Save results into database/file/etc
+    need a graph structure
+    need to handle collisions (collisions = good)
+    upon new starts, load from this database and add to it with new articles
+- Add some sort of recursion
+-  initial visualization
+- Implement checks for search not returning article
+- timeouts?

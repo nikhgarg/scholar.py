@@ -1,0 +1,5 @@
+*.csv
+*.pyc
+*.exe
+*.log
+test.py

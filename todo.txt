@@ -1,0 +1,12 @@
+- fix beginning of articles being cut off sometimes - due to that quote hack I did
+    820696
+    Capacity analysis of macro/microcellular CDMA with power ratio control and tilted antenna
+    
+    
+    644514
+    nalysis of uplink and downlink capacities for two-tier cellular system
+- Add some checking if it's right article - first result
+-Do some fuzzy matching of article names
+- improve visualization
+- improve speed - replace selenium with simple scraping
+- add more columns in Article - to do some more interesting analysis

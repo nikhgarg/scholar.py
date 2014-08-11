@@ -1,0 +1,794 @@
+'import sitecustomize' failed; use -v for traceback
+'import sitecustomize' failed; use -v for traceback
+<li class="noAbstract">
+ <div class="header">
+  <div class="select">
+   <input id="6526920" name="" title="Select this article: &lt;span class='snippet'&gt;5G&lt;/span&gt; &lt;span class='snippet'&gt;technology&lt;/span&gt; of &lt;span class='snippet'&gt;mobile&lt;/span&gt; &lt;span class='snippet'&gt;communication&lt;/span&gt;: A &lt;span class='snippet'&gt;survey&lt;/span&gt;" type="checkbox" value="">
+   </input>
+  </div>
+  <div class="tools">
+   <img alt="Full text access may be available. Click article title to sign in or learn about subscription options." class="button" src="http://staticieeexplore.ieee.org/assets/img/icon.access.locked.png" title="Full text access may be available. Click article title to sign in or learn about subscription options.">
+   </img>
+  </div>
+  <div class="detail">
+   <script>
+    /**
+ * parameters needed to create authorlinks on document load
+ * search.min.js
+ */
+var searchPropertiesParamSearchWithin = 'searchWithin';
+var searchPropertiesParamNewSearch = 'newsearch';
+var authorsGetReference = 'p_Authors';
+var authorIdReference = 'p_Author_Ids';
+   </script>
+   <h3>
+    <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6526920&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+     <span class="snippet">
+      5G
+     </span>
+     <span class="snippet">
+      technology
+     </span>
+     of
+     <span class="snippet">
+      mobile
+     </span>
+     <span class="snippet">
+      communication
+     </span>
+     : A
+     <span class="snippet">
+      survey
+     </span>
+    </a>
+   </h3>
+   <a class="authorPreferredName prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Gohil, A..QT.&amp;newsearch=true" title="">
+    <span class="Charotar Univ. of Sci. &amp; Technol., Changa, India|c|" id="authorAffiliations">
+    </span>
+    <span class="Gohil, A." id="preferredName">
+    </span>
+    Gohil, A.
+   </a>
+   ;
+   <a class=" prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Modi, H..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Modi, H." id="preferredName">
+    </span>
+    Modi, H.
+   </a>
+   ;
+   <a class=" prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Patel, S.K..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Patel, S.K." id="preferredName">
+    </span>
+    Patel, S.K.
+   </a>
+   <a href="../xpl/mostRecentIssue.jsp?punumber=6520970">
+    <br>
+     Intelligent Systems and Signal Processing (ISSP), 2013 International Conference on
+    </br>
+   </a>
+   <br>
+    DOI:
+    <a href="http://dx.doi.org/10.1109/ISSP.2013.6526920" target="blank">
+     10.1109/ISSP.2013.6526920
+    </a>
+    <br>
+     Publication Year: 2013
+     <!-- This fix has been made to fix Rightnow tkt 120412-000610 The pu#5165412 is Magnetics,Letters IEEE 
+for which there is a special requirement that tehy want to show the label as Article# instead of Page(s) -->
+     ,
+						 
+						 
+							Page(s):
+						
+							288	- 292
+     <p>
+      <span class="type">
+       IEEE Conference Publications
+      </span>
+     </p>
+     <p>
+     </p>
+     <p class="links">
+      <span class="floatLeft">
+       <a class="article-option" href="javascript:loginRedirect('saveToProjectRequiresSignIn')">
+        <img alt="Save to Project icon" id="save-to-project-6526920" src="http://staticieeexplore.ieee.org/assets/img/icn.add-to-project.jpg" title="Save to Project"/>
+       </a>
+       |
+       <a class="showRightsLinkPopup" href="#" style="text-decoration: none;" title="Request Permissions">
+        <span class="http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&amp;publication=proceedings&amp;title=5G+technology+of+mobile+communication%3A+A+survey&amp;isbn=978-1-4799-0316-0&amp;publicationDate=1-2+March+2013&amp;author=Gohil%2C+A.%3B+Modi%2C+H.%3B+Patel%2C+S.K.&amp;ContentID=10.1109/ISSP.2013.6526920&amp;orderBeanReset=true&amp;startPage=288&amp;endPage=292&amp;proceedingName=Intelligent+Systems+and+Signal+Processing+%28ISSP%29%2C+2013+International+Conference+on" id="rightsLink">
+        </span>
+        <span class="IEEE" id="publisher">
+        </span>
+        <img alt="Request Permissions" src="http://staticieeexplore.ieee.org/assets/img/permissions-active.png" style="position:relative; top:1px; ">
+        </img>
+       </a>
+       |
+       <a class="quick-ab-button RevealControl" href="#" onclick="return false;" title="Click to Reveal Quick Abstract">
+        <img alt="Click to Reveal Quick Abstract" src="http://staticieeexplore.ieee.org/assets/img/btn.quick-abstract.collapsed.gif">
+         Quick Abstract
+        </img>
+       </a>
+       |
+       <a href="/stamp/stamp.jsp?tp=&amp;arnumber=6526920">
+        <img alt="PDF file icon" class="button" src="http://staticieeexplore.ieee.org/assets/img/iconPdf.png" title="Download or View the PDF">
+         PDF
+        </img>
+       </a>
+       (181 KB)
+					      					
+					      				
+					      			
+					      			
+					      			
+					      			
+					      			
+					   						
+					      					
+											|
+       <a href="/xpls/icp.jsp?arnumber=6526920">
+        <img alt="HTML icon" src="http://staticieeexplore.ieee.org/assets/img/iconHTML.png" title="View the HTML">
+         HTML
+        </img>
+       </a>
+      </span>
+     </p>
+     <div class="abstract RevealContent" id="abstract-1" style="width: auto; overflow: visible; display: none;">
+      <p>
+       The objective of this paper is comprehensive study related to
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technology
+       </span>
+       of
+       <span class="snippet">
+        mobile
+       </span>
+       <span class="snippet">
+        communication
+       </span>
+       . Existing research work in
+       <span class="snippet">
+        mobile
+       </span>
+       <span class="snippet">
+        communication
+       </span>
+       is related to
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technology
+       </span>
+       . In
+       <span class="snippet">
+        5G
+       </span>
+       , researches are related to the development of World Wide Wireless Web (WWWW), Dynamic Adhoc Wireless Networks (DAWN) and Real Wireless
+       <span class="snippet">
+        Communication
+       </span>
+       . The most important
+       <span class="snippet">
+        technologies
+       </span>
+       for
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technologies
+       </span>
+       are 802.11 Wireless Local Area Networks (WLAN) and 802.16 Wireless Metropolitan Area Networks (WMAN), Ad-hoc Wireless Personal Area Network (WPAN) and Wireless networks for digital
+       <span class="snippet">
+        communication
+       </span>
+       . 4G
+       <span class="snippet">
+        technology
+       </span>
+       will include several standards under a common umbrella, similar to 3G, but with IEEE 802.xx wireless
+       <span class="snippet">
+        mobile
+       </span>
+       networks integrated from the commencement. The major contribution of this paper is the key provisions of
+       <span class="snippet">
+        5G
+       </span>
+       (Fifth Generation)
+       <span class="snippet">
+        technology
+       </span>
+       of
+       <span class="snippet">
+        mobile
+       </span>
+       <span class="snippet">
+        communication
+       </span>
+       , which is seen as consumer oriented. In
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technology
+       </span>
+       , the
+       <span class="snippet">
+        mobile
+       </span>
+       consumer has given utmost priority compared to others.
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        Technology
+       </span>
+       stands for 5th Generation
+       <span class="snippet">
+        Mobile
+       </span>
+       <span class="snippet">
+        Technology
+       </span>
+       .
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technology
+       </span>
+       is to make use of
+       <span class="snippet">
+        mobile
+       </span>
+       phones within very high bandwidth. The consumer never experienced the utmost valued
+       <span class="snippet">
+        technology
+       </span>
+       as
+       <span class="snippet">
+        5G
+       </span>
+       . The
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technologies
+       </span>
+       include all types of advanced features which make
+       <span class="snippet">
+        5G
+       </span>
+       <span class="snippet">
+        technology
+       </span>
+       most dominant
+       <span class="snippet">
+        technology
+       </span>
+       in near future.
+       <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6526920&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+        <span class="more">
+         View full abstract»
+        </span>
+       </a>
+      </p>
+     </div>
+    </br>
+   </br>
+  </div>
+ </div>
+</li>
+<li class="noAbstract">
+ <div class="header">
+  <div class="select">
+   <input id="6399067" name="" title="Select this article: First &lt;span class='snippet'&gt;Survey&lt;/span&gt; Results of Quantified User Behavior in User-in-the-Loop Scenarios for Sustainable Wireless Networks" type="checkbox" value="">
+   </input>
+  </div>
+  <div class="tools">
+   <img alt="Full text access may be available. Click article title to sign in or learn about subscription options." class="button" src="http://staticieeexplore.ieee.org/assets/img/icon.access.locked.png" title="Full text access may be available. Click article title to sign in or learn about subscription options.">
+   </img>
+  </div>
+  <div class="detail">
+   <script>
+    /**
+ * parameters needed to create authorlinks on document load
+ * search.min.js
+ */
+var searchPropertiesParamSearchWithin = 'searchWithin';
+var searchPropertiesParamNewSearch = 'newsearch';
+var authorsGetReference = 'p_Authors';
+var authorIdReference = 'p_Author_Ids';
+   </script>
+   <h3>
+    <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6399067&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+     First
+     <span class="snippet">
+      Survey
+     </span>
+     Results of Quantified User Behavior in User-in-the-Loop Scenarios for Sustainable Wireless Networks
+    </a>
+   </h3>
+   <a class="authorPreferredName prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Schoenen, R..QT.&amp;newsearch=true" title="">
+    <span class="Dept. of Syst. &amp;amp; Comput. Eng., Carleton Univ., Ottawa, ON, Canada|c|" id="authorAffiliations">
+    </span>
+    <span class="Schoenen, R." id="preferredName">
+    </span>
+    Schoenen, R.
+   </a>
+   ;
+   <a class=" prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Bulu, G..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Bulu, G." id="preferredName">
+    </span>
+    Bulu, G.
+   </a>
+   ;
+   <a class="authorPreferredName prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Mirtaheri, A..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Mirtaheri, A." id="preferredName">
+    </span>
+    Mirtaheri, A.
+   </a>
+   ;
+   <a class=" prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Beitelmal, T..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Beitelmal, T." id="preferredName">
+    </span>
+    Beitelmal, T.
+   </a>
+   ;
+   <a class=" prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Yanikomeroglu, H..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Yanikomeroglu, H." id="preferredName">
+    </span>
+    Yanikomeroglu, H.
+   </a>
+   <a href="../xpl/mostRecentIssue.jsp?punumber=6391320">
+    <br>
+     Vehicular
+     <span class="snippet">
+      Technology
+     </span>
+     Conference (VTC Fall), 2012 IEEE
+    </br>
+   </a>
+   <br>
+    DOI:
+    <a href="http://dx.doi.org/10.1109/VTCFall.2012.6399067" target="blank">
+     10.1109/VTCFall.2012.6399067
+    </a>
+    <br>
+     Publication Year: 2012
+     <!-- This fix has been made to fix Rightnow tkt 120412-000610 The pu#5165412 is Magnetics,Letters IEEE 
+for which there is a special requirement that tehy want to show the label as Article# instead of Page(s) -->
+     ,
+						 
+						 
+							Page(s):
+						
+							1	- 5
+     <br>
+      Cited by:
+      <a href="/xpl/abstractCitations.jsp?tp=&amp;arnumber=6399067&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+       Papers (1)
+      </a>
+      <p>
+       <span class="type">
+        IEEE Conference Publications
+       </span>
+      </p>
+      <p>
+      </p>
+      <p class="links">
+       <span class="floatLeft">
+        <a class="article-option" href="javascript:loginRedirect('saveToProjectRequiresSignIn')">
+         <img alt="Save to Project icon" id="save-to-project-6399067" src="http://staticieeexplore.ieee.org/assets/img/icn.add-to-project.jpg" title="Save to Project"/>
+        </a>
+        |
+        <a class="showRightsLinkPopup" href="#" style="text-decoration: none;" title="Request Permissions">
+         <span class="http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&amp;publication=proceedings&amp;title=First+Survey+Results+of+Quantified+User+Behavior+in+User-in-the-Loop+Scenarios+for+Sustainable+Wireless+Networks&amp;isbn=978-1-4673-1880-8&amp;publicationDate=3-6+Sept.+2012&amp;author=Schoenen%2C+R.%3B+Bulu%2C+G.%3B+Mirtaheri%2C+A.%3B+Beitelmal%2C+T.%3B+Yanikomeroglu%2C+H.&amp;ContentID=10.1109/VTCFall.2012.6399067&amp;orderBeanReset=true&amp;startPage=1&amp;endPage=5&amp;proceedingName=Vehicular+Technology+Conference+%28VTC+Fall%29%2C+2012+IEEE" id="rightsLink">
+         </span>
+         <span class="IEEE" id="publisher">
+         </span>
+         <img alt="Request Permissions" src="http://staticieeexplore.ieee.org/assets/img/permissions-active.png" style="position:relative; top:1px; ">
+         </img>
+        </a>
+        |
+        <a class="quick-ab-button RevealControl" href="#" onclick="return false;" title="Click to Reveal Quick Abstract">
+         <img alt="Click to Reveal Quick Abstract" src="http://staticieeexplore.ieee.org/assets/img/btn.quick-abstract.collapsed.gif">
+          Quick Abstract
+         </img>
+        </a>
+        |
+        <a href="/stamp/stamp.jsp?tp=&amp;arnumber=6399067">
+         <img alt="PDF file icon" class="button" src="http://staticieeexplore.ieee.org/assets/img/iconPdf.png" title="Download or View the PDF">
+          PDF
+         </img>
+        </a>
+        (174 KB)
+					      					
+					      				
+					      			
+					      			
+					      			
+					      			
+					      			
+					   						
+					      					
+											|
+        <a href="/xpls/icp.jsp?arnumber=6399067">
+         <img alt="HTML icon" src="http://staticieeexplore.ieee.org/assets/img/iconHTML.png" title="View the HTML">
+          HTML
+         </img>
+        </a>
+       </span>
+      </p>
+      <div class="abstract RevealContent" id="abstract-1" style="width: auto; overflow: visible; display: none;">
+       <p>
+        Traffic in
+        <span class="snippet">
+         mobile
+        </span>
+        radio networks is expected to continue to increase by 100% per year. This imposes a big challenge for future generations (4G and
+        <span class="snippet">
+         5G
+        </span>
+        ) of access
+        <span class="snippet">
+         technologies
+        </span>
+        which were previously dimensioned for over-provisioning especially in the busy hours. Recent forecasts hint that this assumption and approach will not be tractable anymore. Instead the demand will exceed the supply more and more frequently causing congestion not only in short term but over longer periods of time. Any approach to engineer networks greener by better spectral efficiency only will fail to meet the global objective, if demand keeps on increasing faster than supply and efficiency. Instead, the User-in-the-loop approach allows to shape the demand where it originates either in space or time. This is achieved by incentives for users to change location or by dynamic tariffs to shift the use of congested resources out of the busy hours. This works as the smart grid of
+        <span class="snippet">
+         communications
+        </span>
+        . While some work has already been done in this new field, the user behavior to the controlled demand shaping was based on assumptions. In this paper, the assumptions were confirmed by recent
+        <span class="snippet">
+         survey
+        </span>
+        results which indicate that shaping user behavior works sufficiently well. Models of the user response are given and analysis and simulation results show the advantages and gains of this approach.
+        <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6399067&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+         <span class="more">
+          View full abstract»
+         </span>
+        </a>
+       </p>
+      </div>
+     </br>
+    </br>
+   </br>
+  </div>
+ </div>
+</li>
+<li class="noAbstract">
+ <div class="header">
+  <div class="select">
+   <input id="6508380" name="" title="Select this article: &lt;span class='snippet'&gt;Survey&lt;/span&gt; on wireless &lt;span class='snippet'&gt;technologies&lt;/span&gt; and security procedures" type="checkbox" value="">
+   </input>
+  </div>
+  <div class="tools">
+   <img alt="Full text access may be available. Click article title to sign in or learn about subscription options." class="button" src="http://staticieeexplore.ieee.org/assets/img/icon.access.locked.png" title="Full text access may be available. Click article title to sign in or learn about subscription options.">
+   </img>
+  </div>
+  <div class="detail">
+   <script>
+    /**
+ * parameters needed to create authorlinks on document load
+ * search.min.js
+ */
+var searchPropertiesParamSearchWithin = 'searchWithin';
+var searchPropertiesParamNewSearch = 'newsearch';
+var authorsGetReference = 'p_Authors';
+var authorIdReference = 'p_Author_Ids';
+   </script>
+   <h3>
+    <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6508380&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+     <span class="snippet">
+      Survey
+     </span>
+     on wireless
+     <span class="snippet">
+      technologies
+     </span>
+     and security procedures
+    </a>
+   </h3>
+   <a class="authorPreferredName prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Vajjiravelu, S..QT.&amp;newsearch=true" title="">
+    <span class="Bharathiar Univ., Coimbatore, India|c|" id="authorAffiliations">
+    </span>
+    <span class="Vajjiravelu, S." id="preferredName">
+    </span>
+    Vajjiravelu, S.
+   </a>
+   ;
+   <a class="authorPreferredName prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Punitha, A..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Punitha, A." id="preferredName">
+    </span>
+    Punitha, A.
+   </a>
+   <a href="../xpl/mostRecentIssue.jsp?punumber=6504612">
+    <br>
+     Information
+     <span class="snippet">
+      Communication
+     </span>
+     and Embedded Systems (ICICES), 2013 International Conference on
+    </br>
+   </a>
+   <br>
+    DOI:
+    <a href="http://dx.doi.org/10.1109/ICICES.2013.6508380" target="blank">
+     10.1109/ICICES.2013.6508380
+    </a>
+    <br>
+     Publication Year: 2013
+     <!-- This fix has been made to fix Rightnow tkt 120412-000610 The pu#5165412 is Magnetics,Letters IEEE 
+for which there is a special requirement that tehy want to show the label as Article# instead of Page(s) -->
+     ,
+						 
+						 
+							Page(s):
+						
+							352	- 355
+     <p>
+      <span class="type">
+       IEEE Conference Publications
+      </span>
+     </p>
+     <p>
+     </p>
+     <p class="links">
+      <span class="floatLeft">
+       <a class="article-option" href="javascript:loginRedirect('saveToProjectRequiresSignIn')">
+        <img alt="Save to Project icon" id="save-to-project-6508380" src="http://staticieeexplore.ieee.org/assets/img/icn.add-to-project.jpg" title="Save to Project"/>
+       </a>
+       |
+       <a class="showRightsLinkPopup" href="#" style="text-decoration: none;" title="Request Permissions">
+        <span class="http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&amp;publication=proceedings&amp;title=Survey+on+wireless+technologies+and+security+procedures&amp;isbn=978-1-4673-5786-9&amp;publicationDate=21-22+Feb.+2013&amp;author=Vajjiravelu%2C+S.%3B+Punitha%2C+A.&amp;ContentID=10.1109/ICICES.2013.6508380&amp;orderBeanReset=true&amp;startPage=352&amp;endPage=355&amp;proceedingName=Information+Communication+and+Embedded+Systems+%28ICICES%29%2C+2013+International+Conference+on" id="rightsLink">
+        </span>
+        <span class="IEEE" id="publisher">
+        </span>
+        <img alt="Request Permissions" src="http://staticieeexplore.ieee.org/assets/img/permissions-active.png" style="position:relative; top:1px; ">
+        </img>
+       </a>
+       |
+       <a class="quick-ab-button RevealControl" href="#" onclick="return false;" title="Click to Reveal Quick Abstract">
+        <img alt="Click to Reveal Quick Abstract" src="http://staticieeexplore.ieee.org/assets/img/btn.quick-abstract.collapsed.gif">
+         Quick Abstract
+        </img>
+       </a>
+       |
+       <a href="/stamp/stamp.jsp?tp=&amp;arnumber=6508380">
+        <img alt="PDF file icon" class="button" src="http://staticieeexplore.ieee.org/assets/img/iconPdf.png" title="Download or View the PDF">
+         PDF
+        </img>
+       </a>
+       (146 KB)
+					      					
+					      				
+					      			
+					      			
+					      			
+					      			
+					      			
+					   						
+					      					
+											|
+       <a href="/xpls/icp.jsp?arnumber=6508380">
+        <img alt="HTML icon" src="http://staticieeexplore.ieee.org/assets/img/iconHTML.png" title="View the HTML">
+         HTML
+        </img>
+       </a>
+      </span>
+     </p>
+     <div class="abstract RevealContent" id="abstract-1" style="width: auto; overflow: visible; display: none;">
+      <p>
+       Modern world is shrinking due to the development of science and its
+       <span class="snippet">
+        technology
+       </span>
+       . Over the years, wireless telecommunications market has long been recognized as one of the most dynamic and fastest growing segments of the global telecommunications industry. But requirements of human being augment day by day. However further modernization will be on convergence of this existing
+       <span class="snippet">
+        technology
+       </span>
+       in to a single platform.
+       <span class="snippet">
+        Mobile
+       </span>
+       broadband is becoming a reality, as the internet generation grows accustomed to having broadband access wherever they go and not just at home or in the office. Of the estimated 3.4 billion people who will have broadband by 2014, about 80 percent will be
+       <span class="snippet">
+        mobile
+       </span>
+       broadband subscribers - and the majority will be served by High Speed Packet Access (HSPA) and Long Term Evolution (LTE) networks. There is strong evidence supporting predictions of increased
+       <span class="snippet">
+        mobile
+       </span>
+       broadband usage. This paper mainly focuses on how a
+       <span class="snippet">
+        5G
+       </span>
+       network can provide more approach to a common man to utilize his available possessions in an immense way to make him to feel the real progress. While considering a
+       <span class="snippet">
+        5G
+       </span>
+       network now it is very obvious that the access network is almost freezing and there will not be any further modification.
+       <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6508380&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+        <span class="more">
+         View full abstract»
+        </span>
+       </a>
+      </p>
+     </div>
+    </br>
+   </br>
+  </div>
+ </div>
+</li>
+<li class="noAbstract">
+ <div class="header">
+  <div class="select">
+   <input id="6815898" name="" title="Select this article: An energy efficient and spectrum efficient wireless heterogeneous network framework for &lt;span class='snippet'&gt;5G&lt;/span&gt; systems" type="checkbox" value="">
+   </input>
+  </div>
+  <div class="tools">
+   <img alt="Full text access may be available. Click article title to sign in or learn about subscription options." class="button" src="http://staticieeexplore.ieee.org/assets/img/icon.access.locked.png" title="Full text access may be available. Click article title to sign in or learn about subscription options.">
+   </img>
+  </div>
+  <div class="detail">
+   <script>
+    /**
+ * parameters needed to create authorlinks on document load
+ * search.min.js
+ */
+var searchPropertiesParamSearchWithin = 'searchWithin';
+var searchPropertiesParamNewSearch = 'newsearch';
+var authorsGetReference = 'p_Authors';
+var authorIdReference = 'p_Author_Ids';
+   </script>
+   <h3>
+    <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6815898&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+     An energy efficient and spectrum efficient wireless heterogeneous network framework for
+     <span class="snippet">
+      5G
+     </span>
+     systems
+    </a>
+   </h3>
+   <a class="authorPreferredName prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Hu, R.Q..QT.&amp;newsearch=true" title="">
+    <span class="University of Science and Technology of China|c|" id="authorAffiliations">
+    </span>
+    <span class="Hu, R.Q." id="preferredName">
+    </span>
+    Hu, R.Q.
+   </a>
+   ;
+   <a class=" prefNameLink" href="/search/searchresult.jsp?searchWithin=p_Authors:.QT.Qian, Y..QT.&amp;newsearch=true" title="">
+    <span class="" id="authorAffiliations">
+    </span>
+    <span class="Qian, Y." id="preferredName">
+    </span>
+    Qian, Y.
+   </a>
+   <a href="../xpl/RecentIssue.jsp?punumber=35">
+    <br>
+     <span class="snippet">
+      Communications
+     </span>
+     Magazine, IEEE
+    </br>
+   </a>
+   <br>
+    Volume:	52					
+					
+						
+					
+						,
+    <a href="../xpl/tocresult.jsp?isnumber=6815882">
+     Issue: 5
+    </a>
+    <br>
+     DOI:
+     <a href="http://dx.doi.org/10.1109/MCOM.2014.6815898" target="blank">
+      10.1109/MCOM.2014.6815898
+     </a>
+     <br>
+      Publication Year: 2014
+      <!-- This fix has been made to fix Rightnow tkt 120412-000610 The pu#5165412 is Magnetics,Letters IEEE 
+for which there is a special requirement that tehy want to show the label as Article# instead of Page(s) -->
+      ,
+						 
+						 
+							Page(s):
+						
+							94	- 101
+      <p>
+       <span class="type">
+        IEEE Journals &amp; Magazines
+       </span>
+      </p>
+      <p>
+      </p>
+      <p class="links">
+       <span class="floatLeft">
+        <a class="article-option" href="javascript:loginRedirect('saveToProjectRequiresSignIn')">
+         <img alt="Save to Project icon" id="save-to-project-6815898" src="http://staticieeexplore.ieee.org/assets/img/icn.add-to-project.jpg" title="Save to Project"/>
+        </a>
+        |
+        <a class="showRightsLinkPopup" href="#" style="text-decoration: none;" title="Request Permissions">
+         <span class="http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&amp;publication=0163-6804&amp;title=An+energy+efficient+and+spectrum+efficient+wireless+heterogeneous+network+framework+for+5G+systems&amp;isbn=&amp;publicationDate=May+2014&amp;author=Hu%2C+R.Q.%3B+Qian%2C+Y.&amp;ContentID=10.1109/MCOM.2014.6815898&amp;orderBeanReset=true&amp;startPage=94&amp;endPage=101&amp;volumeNum=52&amp;issueNum=5" id="rightsLink">
+         </span>
+         <span class="IEEE" id="publisher">
+         </span>
+         <img alt="Request Permissions" src="http://staticieeexplore.ieee.org/assets/img/permissions-active.png" style="position:relative; top:1px; ">
+         </img>
+        </a>
+        |
+        <a class="quick-ab-button RevealControl" href="#" onclick="return false;" title="Click to Reveal Quick Abstract">
+         <img alt="Click to Reveal Quick Abstract" src="http://staticieeexplore.ieee.org/assets/img/btn.quick-abstract.collapsed.gif">
+          Quick Abstract
+         </img>
+        </a>
+        |
+        <a href="/stamp/stamp.jsp?tp=&amp;arnumber=6815898">
+         <img alt="PDF file icon" class="button" src="http://staticieeexplore.ieee.org/assets/img/iconPdf.png" title="Download or View the PDF">
+          PDF
+         </img>
+        </a>
+        (259 KB)
+       </span>
+      </p>
+      <div class="abstract RevealContent" id="abstract-1" style="width: auto; overflow: visible; display: none;">
+       <p>
+        In this article we explore a system framework of cooperative green heterogeneous networks for
+        <span class="snippet">
+         5G
+        </span>
+        wireless
+        <span class="snippet">
+         communication
+        </span>
+        systems. We first
+        <span class="snippet">
+         survey
+        </span>
+        the state-of-the-art on spectrum efficiency (SE), energy efficiency (EE), and quality of service (QoS) based
+        <span class="snippet">
+         mobile
+        </span>
+        association, multi-layer interference management and power control, network wide cooperation and dynamic resource allocation for heterogeneous wireless networks. We also present the system framework of cooperative green heterogeneous networks, which aims at balancing and optimizing SE, EE, and QoS in heterogeneous wireless networks. We discuss the design principles and show some preliminary performance results on the tradeoffs among SE, EE, and QoS. Finally, we identify the technical challenges that remain in the cooperative green heterogeneous network design. The presented wireless system framework is expected to advance the understandings of the critical technical issues toward energy and spectrum efficient
+        <span class="snippet">
+         5G
+        </span>
+        wireless
+        <span class="snippet">
+         communication
+        </span>
+        systems.
+        <a href="/xpl/articleDetails.jsp?tp=&amp;arnumber=6815898&amp;queryText%3D5G+technology+of+mobile+communication%3A+A+survey">
+         <span class="more">
+          View full abstract»
+         </span>
+        </a>
+       </p>
+      </div>
+     </br>
+    </br>
+   </br>
+  </div>
+ </div>
+</li>
+
